@@ -1,3 +1,2 @@
-# hello-world
-It's a test
-Dave writing a test piece
+# RUK Cymru blog
+This blog is a test of the new Github pages functionality.
